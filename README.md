@@ -17,4 +17,5 @@ Crear el prototipado de la plataforma en un wireframe
 
 ## Practica 5
 Crear el diseño basandonos en el wireframe realizado 
+(https://www.figma.com/file/q0rcNLGnFACUCBZJSfiXAm/Untitled?node-id=1%3A2)
 
