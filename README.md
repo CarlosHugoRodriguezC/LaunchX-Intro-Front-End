@@ -3,9 +3,11 @@
 
 ## Practica 1
 Practica que consiste en capturar todos los requerimientos de proyecto antes de su ejecucion o desarrollo
+(https://github.com/CarlosHugoRodriguezC/LaunchX-Intro-Front-End/blob/main/Practica_1_requerimientos.docx)
 
 ## Practica 2
 Crear un buyer persona para identificar el usuario al que esta dirigido el desarrollo
+(https://github.com/CarlosHugoRodriguezC/LaunchX-Intro-Front-End/blob/main/Practica_2_buyer_persona.pdf)
 
 ## Practica 3
 Crear un diagrama identificando el publico objetivo al que va dirigido el desarrollo 
